@@ -91,7 +91,7 @@ $$h'_l = h_l + \sum_{i \in V_{\text{active}}} \alpha_i \cdot \phi_i(h_l)$$
 1. **Подготовка системы:** Убедитесь, что у вас установлен Python версии 3.10 или выше, а также `git`.
 2. **Клонирование:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/exokernel.git](https://github.com/YOUR_USERNAME/exokernel.git)
+   git clone [https://github.com/Moklipa/ExoKernel.git](https://github.com/Moklipa/ExoKernel.git)
    cd exokernel
    ```
     Настройка изолированного окружения:
